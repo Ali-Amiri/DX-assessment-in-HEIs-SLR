@@ -1,0 +1,189 @@
+row_index,construct_label,topic_id
+0,socio cultural,3
+1,teaching  learning,1
+2,academic management,5
+3,administrative management,5
+4,research and innovation,6
+5,digital government,7
+6,institutional image and digital marketing,8
+7,university extension,5
+8,sustainable digital technology infrastructure,7
+9,sustainable digital operations and processes,7
+10,sustainable digital strategy and vision,7
+11,sustainable innovation,7
+12,sustainable digital skill,7
+13,sustainable digital culture,7
+14,sustainable digital organization,7
+15,sustainable governance and management,2
+16,sustainable digital compliance and security,7
+17,learning and teaching processes,1
+18,enabling process,5
+19,research process,6
+20,planning and governance processes,2
+21,strategy and culture,2
+22,financial resource,7
+23,technological basis,3
+24,focus on the student experience,1
+25,teaching learn process,1
+26,economic administrative process,5
+27,it governance,2
+28,competency and ability,6
+29,internal process management,5
+30,technical and technological,3
+31,cognitive,3
+32,social,3
+33,psychological,3
+34,spiritual,3
+35,digital strategy,7
+36,leadership culture,2
+37,market digitization,7
+38,strengthened logistics,3
+39,dynamic digital capabilities,7
+40,leadership planning and management,2
+41,quality assurance,0
+42,scientific research work,6
+43,technology transfer and service to society,-1
+44,learning and teaching,1
+45,ict culture,8
+46,ict resources and infrastructure,3
+47,leadership planning and management,2
+48,quality assurance,0
+49,scientific research,6
+50,digital teaching and learn,4
+51,service society,-1
+52,technology and infrastructure,3
+53,technology culture,8
+54,leadership planning and management,2
+55,learning and teaching,1
+56,scientific research work,6
+57,technology transfer and service to the society,-1
+58,ict culture,8
+59,ict infrastructure,3
+60,quality assurance,0
+61,administration and management,5
+62,curriculum and learn,1
+63,human resource development,7
+64,research and innovation,6
+65,technology infrastructure,3
+66,student service and other user,1
+67,security and privacy,7
+68,paper,6
+69,help,6
+70,exception,6
+71,online form,4
+72,role and right,6
+73,no medium discontinuity,8
+74,persistent datum,0
+75,datum quality,0
+76,interface,3
+77,parallel processing,5
+78,sample,6
+79,socio cultural,3
+80,teaching learning,1
+81,academic management,5
+82,administrative management,5
+83,research innovation,6
+84,digital government,7
+85,institutional image mkt,8
+86,university extension,5
+87,leadership planning and management,2
+88,quality assurance,0
+89,scientific research,6
+90,technology transfer and service to society,-1
+91,learning and teaching,1
+92,digital culture,8
+93,digital resources and infrastructure,7
+94,strategy and culture,2
+95,financial resource,7
+96,technological basis,3
+97,focus on the student,1
+98,teaching and learning process,1
+99,economic and administrative process,5
+100,it governance,2
+101,capability and skill,6
+102,internal process management,5
+103,technology,3
+104,datum,0
+105,process,5
+106,strategy,2
+107,people,3
+108,learning and teaching process,1
+109,research process,6
+110,enabling process,5
+111,planning and governance process,2
+112,leadership planning and management,2
+113,learning and teaching,1
+114,scientific research work,6
+115,technology transfer and service to the society,-1
+116,ict culture,8
+117,ict infrastructure,3
+118,quality assurance,0
+119,strategic,2
+120,organizational,5
+121,technological,3
+122,datum management,0
+123,innovativeness,6
+124,infrastructure,3
+125,collaboration,6
+126,learn flexibility,1
+127,digital culture,8
+128,digital leadership,7
+129,digital human resources,7
+130,digital infrastructure,7
+131,digital governance and support,7
+132,digital education,4
+133,digital research and communities,8
+134,leadership and governance,2
+135,policy and strategy,2
+136,teaching and learn,1
+137,content and curricula,1
+138,trainingand support,1
+139,infrastructure,3
+140,research networksand alliance,-1
+141,firm leadership and government relate to digital issue,7
+142,widely communicate policies and strategies within the institution,2
+143,wide use of innovative digital technology in teaching and learning,4
+144,rich digital content and presence of digital skill and competence in curricula,4
+145,provision of digital training and support to stakeholder,4
+146,found on adequate up to date and widely available digital infrastructure,7
+147,participation in research networks and alliances to improve digital competency and capacity,8
+148,people systems,3
+152,learn design,1
+156,learner experience,1
+160,work and lifelong learning,1
+164,organisational digital culture,8
+168,knowledge creation and innovation,6
+172,knowledge development,6
+176,knowledge management and use,6
+180,knowledge exchange and partnership,6
+184,digital and physical infrastructure,7
+188,digital proficiency,4
+189,digital productivity,7
+190,digital creation,7
+191,digital research and problem solve,8
+192,digital innovation,7
+193,digital learning,4
+194,digital teaching,4
+195,information literacy,4
+196,datum literacy,0
+197,medium literacy,4
+198,digital communication,7
+199,digital collaboration,8
+200,digital participation,8
+201,digital identity management,7
+202,digital wellbee,7
+203,education and research,6
+207,governance and administration,2
+211,teaching and learn,1
+217,research,6
+223,professional service,-1
+229,planning and governance,2
+235,professional engagement,-1
+239,digital resources,7
+242,teaching and learning,1
+246,assessment,0
+249,facilitate learners digital competence,4
+254,empower learner,1
+257,strategy and governance,2
+259,capacity and expertise,6
+261,infrastructure,3
